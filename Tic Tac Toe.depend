@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457447266 source:e:\technical software zone\technical files\programming\code blocks\bin\tic tac toe\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
